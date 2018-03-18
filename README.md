@@ -1,2 +1,2 @@
 # booksapi
-Of smal rest api for books management
+Of small rest api for books management
